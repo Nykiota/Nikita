@@ -3,7 +3,7 @@
 **System Analyst**
 
 ## Проекты
-- **[Проектное портфолио: practicum_projects](https://github.com/Nykiota/Systems-Analysis-Portfolio-Trainee.git)
+- [Проектное портфолио: practicum_projects](https://github.com/Nykiota/Systems-Analysis-Portfolio-Trainee.git)
 ## Навыки
 - Сбор требований:   User Story/Job Story, GoogleDocs
 - Моделирование и диаграммы: UML Use Case, BPMN 2.0
