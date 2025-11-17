@@ -10,7 +10,7 @@
 - Документирование/трэкинг: Jira, Github
 - Прототипы:  Figma
 - Визуализация: Miro, Draw.io
-- Интеграции: REST API, SOAP (JSON, XML), Postman, Swagger
+- Интеграции: REST API, SOAP, JSON, XML, Postman, Swagger
 - Базы данных: PostgreSQL, DBeaver
 
 
